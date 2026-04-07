@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shades-of-Dark
-- 👀 I’m interested in game dev.
-- 🌱 I’m currently learning the pygame language
-- 💞️ I’m looking to collaborate on nothing because I am not good at code yet
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C++ and web development
+- 💞️ I’m looking to build projects that interest me
 - 📫 How to reach me...
 
 <!---
